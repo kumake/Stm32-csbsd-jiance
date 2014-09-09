@@ -1,0 +1,17 @@
+..\OBJ\ad9850.o: ..\HARDWARE\AD9850\ad9850.c
+..\OBJ\ad9850.o: ..\HARDWARE\AD9850\ad9850.h
+..\OBJ\ad9850.o: ..\SYSTEM\sys\sys.h
+..\OBJ\ad9850.o: ..\USER\stm32f10x.h
+..\OBJ\ad9850.o: ..\CORE\core_cm3.h
+..\OBJ\ad9850.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\OBJ\ad9850.o: ..\USER\system_stm32f10x.h
+..\OBJ\ad9850.o: ..\USER\stm32f10x_conf.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\OBJ\ad9850.o: ..\USER\stm32f10x.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\ad9850.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\ad9850.o: ..\SYSTEM\delay\delay.h
